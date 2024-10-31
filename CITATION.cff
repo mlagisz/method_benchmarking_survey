@@ -1,0 +1,19 @@
+cff-version: 0.0.0
+message: "Please cite as below."
+authors:
+  - family-names: Lagisz
+    given-names: Malgorzata
+    orcid: 0000-0002-3993-6127
+    - family-names: Yang  
+    given-names: Yefeng
+    orcid: 0000-0002-8610-4016
+    - family-names: Young
+    given-names: Sarah
+    orcid: 0000-0002-8301-5106
+    - family-names: Nakagawa
+    given-names: Shinichi
+    orcid: 0000-0002-7765-5182
+title: "A practical guide to evaluating sensitivity of literature search strings for systematic reviews using relative recall"
+version: 0.0.0
+doi: [DOI goes here]
+date-released: YYYY-MM-DD
